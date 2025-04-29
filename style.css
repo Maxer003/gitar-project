@@ -28,3 +28,17 @@ h2{
     border: 1px solid rgba(0, 0, 0, 0.8);
     border-radius: 5px;
 }
+
+.gitarkep-jobbra{
+    float: left;
+    margin: 0 15px 10px 20px;
+    width: 200px;
+    height: auto;
+    border: 1px solid #ccc;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.8);
+    border-radius: 3px;
+}
+
+.clear{
+    clear: both;
+}
