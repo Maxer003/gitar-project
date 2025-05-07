@@ -5,12 +5,13 @@ body{
 }
 
 .keret{
-    width:40%;
+    width:80%;
     border: 5px solid #666566;
     background: bisque;
     box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5);
     border-radius: 12px;
-    padding: 11px;
+    padding: 30px;
+    margin: auto;
 }
 
 header{
@@ -36,8 +37,8 @@ h2, h3{
     text-align: center;
 }
 
-.kep, abra{
-    width: 20%;
+.kep, .abra{
+    width: 70%;
     height: auto;
     border: 1px solid #ccc;
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.8);
