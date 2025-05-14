@@ -45,6 +45,11 @@ h2, h3{
     border-radius: 5px;
     margin: auto;
     display: block;
+    transition: all .2s ease-in-out;
+}
+
+.abra:hover {
+    transform: scale(1.1);
 }
 
 .gitarkep-jobbra{
@@ -80,4 +85,16 @@ h2, h3{
     text-align: justify;
     padding: 6px 3px;
     margin-bottom: 20px;
+}
+
+.gitarmuveszet{
+    width: 80%;
+    border-collapse: collapse;
+    text-align: left;
+    margin: auto;
+}
+
+.gitarmuveszet td, th{
+    border: 1px solid black;
+    padding: 20px;
 }
